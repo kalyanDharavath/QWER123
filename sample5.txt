@@ -3,4 +3,5 @@ void main{
 int a,b,c;
 c=a+b;
 prinf("addition of two numbers:%d",c);
+printf("hello this is S5);
 }
